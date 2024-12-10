@@ -76,8 +76,6 @@ function UserList({ token, setToken }) {
 
   return (
     <div>
-      <h2>사용자 목록</h2>
-      <button onClick={handleLogout}>로그아웃</button>
       {users.map((user) => (
         <div key={user.id}>
           {editingUser === user.id ? (

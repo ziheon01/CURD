@@ -4,5 +4,11 @@
     "name": "하이",
     "email": "123@n.com",
     "password": "$2b$10$q5aht10QKBfQpO//bHJG9ecrARLuM6AC23Dt9bakHTCStkzfb.bCO"
+  },
+  {
+    "id": 1733798098023,
+    "name": "김지",
+    "email": "1234@naver.com",
+    "password": "$2b$10$qUUd1KSSPtCNVQGi/eMtAO5pvfBt7VjG.RVBMNgmKRvYWsE7ZW.F."
   }
 ]
