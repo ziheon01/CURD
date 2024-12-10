@@ -1,0 +1,64 @@
+/* UserList.css */
+
+.user-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 15px;
+    margin-bottom: 10px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .user-card p {
+    margin: 5px 0;
+    color: #333;
+  }
+  
+  .user-card button {
+    margin-right: 10px;
+  }
+  
+  .edit-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .edit-container input {
+    width: calc(100% - 20px);
+  }
+  
+  .logout-button {
+    display: block;
+    margin: 0 auto 20px;
+    padding: 10px 20px;
+    background-color: #d32f2f;
+    border-radius: 4px;
+  }
+  
+  .logout-button:hover {
+    background-color: #b71c1c;
+  }
+  
+  .action-buttons {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+  }
+  
+  button.save-button {
+    background-color: #4caf50;
+  }
+  
+  button.save-button:hover {
+    background-color: #388e3c;
+  }
+  
+  button.cancel-button {
+    background-color: #9e9e9e;
+  }
+  
+  button.cancel-button:hover {
+    background-color: #616161;
+  }
+  
